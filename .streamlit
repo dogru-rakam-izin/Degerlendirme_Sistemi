@@ -1,1 +1,6 @@
-
+Dogru_Rakam_Proje/
+├── .streamlit/           <-- Yeni oluşturacağın gizli klasör
+│   └── secrets.toml      <-- Şifrelerin olduğu dosya
+├── app.py                <-- Ana kod dosyan
+├── requirements.txt      <-- Kütüphane listen
+└── README.md             <-- Hazırladığımız tanıtım dosyası
