@@ -1,1 +1,4 @@
-# Degerlendirme_Sistemi
+streamlit
+pandas
+gspread
+st-gsheets-connection
